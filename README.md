@@ -6,7 +6,7 @@ software Developer
 
 *I am intersted in data sceince beacuse It brings me Joy*
 
-### My code is simply to ask someone what there is ###
+### My code is simply to ask someone there age is  is ###
 
 print("now enter your age")
 age = int(input("age: "))
